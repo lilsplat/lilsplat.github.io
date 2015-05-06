@@ -107,6 +107,23 @@ table {
 	3.0 Basic Document Styles
 ================================================================== */
 
+a:link {
+    color: #FFFFFF;
+}
+
+a:visited {
+    color: #FFFFFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: #FFFFFF;
+}
+
+
 body {
 	line-height: 1;
 	color: #fff;
